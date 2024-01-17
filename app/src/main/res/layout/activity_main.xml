@@ -31,5 +31,12 @@
         android:layout_height="wrap_content"
         android:text="@string/reset"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/your_stop_watch_by_samuella"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
 
 </LinearLayout>
